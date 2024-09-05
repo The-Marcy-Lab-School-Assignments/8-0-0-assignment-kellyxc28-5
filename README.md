@@ -1,5 +1,7 @@
 # My First Express Server
 
+[**Deployment Link Here!**](https://eight-0-0-intro-to-express-assignment.onrender.com/)
+
 In this assignment, you will be tasked with creating and deploying a simple Express server. The server will have four GET endpoints, two that serve HTML and two that serve raw data. One of those data endpoints will use query parameters.
 
 **Table of Contents**
@@ -47,7 +49,7 @@ You got this!
 - [x] There are 4 controller functions
   - [x] Two controllers send an HTML response (either raw HTML or an HTML file)
   - [x] Two controllers send a data response
-  - [ ] One of the controllers uses query parameters in some way (`req.query.parameterName`)
+  - [x] One of the controllers uses query parameters in some way (`req.query.parameterName`)
 - [x] There are 4 GET endpoints
   - [x] Endpoints that provided data start with `/api` (ex: `/api/name` returns a name)
   - [x] Endpoints that provide HTML start with `/` (ex: `/about` returns the about HTML page)
@@ -55,7 +57,7 @@ You got this!
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section. 
+- [x] Your GitHub page has a link to the deployed server in the About section. 
 
 ## Part 1 - Setup
 
