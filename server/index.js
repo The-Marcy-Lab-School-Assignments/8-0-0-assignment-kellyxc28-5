@@ -6,7 +6,7 @@ const app = express();
 
 // CONTROLLERS 
 const serveIndex = (req, res, next) => {
-  res.sendFile(__dirname + '/index.html');
+  res.sendFile(__dirname + '/index.html');g
 }
 const serveIntro = (req, res, next) => {
   res.send('<h1>Intro</h1>');
